@@ -1,0 +1,2 @@
+# fastapi
+playing with aws 
